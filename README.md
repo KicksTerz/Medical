@@ -5,28 +5,28 @@ This repository includes statistical analysis, machine learning models, and work
 
 🔬 Key Projects
 
-📌 1. Lactobacillus & Contraception Analysis
-	•	Investigates the impact of contraceptive methods on vaginal microbiome health.
-	•	Uses Spearman correlation, Kruskal-Wallis tests, Dunn’s test, and Ordinal Logistic Regression.
-	•	Includes heatmaps and statistical visualizations.
+📌 1. Lactobacillus & Contraception Analysis  
+	•	Investigates the impact of contraceptive methods on vaginal microbiome health.  
+	•	Uses Spearman correlation, Kruskal-Wallis tests, Dunn’s test, and Ordinal Logistic Regression.  
+	•	Includes heatmaps and statistical visualizations.  
 
 📌 Notebook: https://github.com/KicksTerz/Medical/blob/main/Lactobacillus_Contraception_Analysis2.ipynb
 
 📊 Methods & Techniques
 
-This repository applies statistical and machine learning techniques, including:
-	•	✅ Exploratory Data Analysis (EDA): Data visualization & trend analysis.
-	•	✅ Statistical Testing: Spearman correlation, Kruskal-Wallis, Dunn’s test.
-	•	✅ Machine Learning Models: Logistic Regression, Decision Trees, Neural Networks.
-	•	✅ Automation & API Integration: Tracking, reporting, and real-time data processing.
+This repository applies statistical and machine learning techniques, including:  
+	•	✅ Exploratory Data Analysis (EDA): Data visualization & trend analysis.  
+	•	✅ Statistical Testing: Spearman correlation, Kruskal-Wallis, Dunn’s test.  
+	•	✅ Machine Learning Models: Logistic Regression, Decision Trees, Neural Networks.  
+	•	✅ Automation & API Integration: Tracking, reporting, and real-time data processing.  
 
 🛠️ Tools & Libraries
 
-This project uses:
-	•	Python 🐍 (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
-	•	Machine Learning 🤖 (Scikit-learn, Statsmodels, OrderedModel)
-	•	Jupyter Notebooks 📓 for analysis & visualization
-	•	GitHub 🛠 for version control & collaboration
+This project uses:  
+	•	Python 🐍 (Pandas, NumPy, SciPy, Matplotlib, Seaborn)  
+	•	Machine Learning 🤖 (Scikit-learn, Statsmodels, OrderedModel)  
+	•	Jupyter Notebooks 📓 for analysis & visualization  
+	•	GitHub 🛠 for version control & collaboration  
 
  📢 Contributions
 
@@ -34,6 +34,6 @@ This project uses:
 
 📬 Contact
 
-📩 Your Name
-📌 GitHub: https://github.com/KicksTerz/
-📌 LinkedIn: https://www.linkedin.com/in/kiril-terziev-82400712/
+📩 Your Name  
+📌 GitHub: https://github.com/KicksTerz/  
+📌 LinkedIn: https://www.linkedin.com/in/kiril-terziev-82400712/  
