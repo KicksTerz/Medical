@@ -10,7 +10,15 @@ This repository includes statistical analysis, machine learning models, and work
 	•	Uses Spearman correlation, Kruskal-Wallis tests, Dunn’s test, and Ordinal Logistic Regression.  
 	•	Includes heatmaps and statistical visualizations.  
 
-📌 Notebook: https://github.com/KicksTerz/Medical/blob/main/Lactobacillus_Contraception_Analysis2.ipynb
+🗒️ Notebook: https://github.com/KicksTerz/Medical/blob/main/Lactobacillus_Contraception_Analysis2.ipynb
+
+📌 2. Endometriosis & Pain Killers Analysis  
+	•	Co-existing medical conditions
+	•	Self-reported symptoms
+	•	Treatment types and effectiveness
+	•	Painkiller usage patterns
+ 
+🗒️ Notebook: https://github.com/KicksTerz/Medical/blob/main/endo_06032025.ipynb
 
 📊 Methods & Techniques
 
