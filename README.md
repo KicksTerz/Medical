@@ -34,6 +34,6 @@ This project uses:
 
 📬 Contact
 
-📩 Your Name  
+📩 Kiril Terziev  
 📌 GitHub: https://github.com/KicksTerz/  
 📌 LinkedIn: https://www.linkedin.com/in/kiril-terziev-82400712/  
