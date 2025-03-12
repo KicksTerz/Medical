@@ -20,22 +20,6 @@ This repository applies statistical and machine learning techniques, including:
 	•	✅ Machine Learning Models: Logistic Regression, Decision Trees, Neural Networks.
 	•	✅ Automation & API Integration: Tracking, reporting, and real-time data processing.
 
- 📥 Installation & Setup
-
-To run the notebooks and scripts, set up the environment: 
-
-# Clone this repository
-git clone https://github.com/KicksTerz/Medical.git
-cd medical-data-science-projects
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Mac/Linux
-venv\Scripts\activate  # On Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
 🛠️ Tools & Libraries
 
 This project uses:
