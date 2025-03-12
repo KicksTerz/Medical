@@ -10,7 +10,7 @@ This repository includes statistical analysis, machine learning models, and work
 	•	Uses Spearman correlation, Kruskal-Wallis tests, Dunn’s test, and Ordinal Logistic Regression.
 	•	Includes heatmaps and statistical visualizations.
 
-📌 Notebook: 
+📌 Notebook: https://github.com/KicksTerz/Medical/blob/main/Lactobacillus_Contraception_Analysis2.ipynb
 
 📊 Methods & Techniques
 
